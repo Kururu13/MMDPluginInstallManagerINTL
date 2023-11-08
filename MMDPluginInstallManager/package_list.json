@@ -143,14 +143,13 @@
     ]
   },
   {
-    "Title": "MMAccelUpdatedTest",
-    "URL": "https://bowlroll.net/file/253630",
-    "Version": "2.0.9",
-    "Readme": "mmaccel_readme.md",
-    "SHA1Hash": "3b483fb09eaab29d165768764d94fd3dfa1c5eb9",
+    "Title": "MikuMikuEffectEnglish",
+    "URL": "https://learnmmd.com/MMEffect_v037x64_English.zip",
+    "Version": 0.37,
+    "Readme": "MMEffect_v037x64_English/Original Text Files/MMEffect.txt",
+    "SHA1Hash": "c9304108d61517e9ba47e05118dda1df6063c14c",
     "InstallDir": [
-      [ "MMAccel_2_0_9/mmaccel/", "../../plugin/mmaccel/" ],
-      [ "MMAccel_2_0_9/mmaccel_readme.md", "../plugin/mmaccel/" ]
+      [ "MMEffect_x64_v037English/", "../plugin/mme/" ]
     ]
   }
 ]

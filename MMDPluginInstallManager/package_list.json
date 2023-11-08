@@ -2,7 +2,7 @@
   {
     "Title": "MMDPlugin",
     "URL": "https://bowlroll.net/file/121761",
-    "Version": 0.41,
+    "Version": "0.41",
     "Readme": "MMDPlugin_Readme.txt",
     "SHA1Hash": "682cc15082b3db2cff6808480d12f4e92413e085",
     "InstallDir": [
@@ -26,7 +26,7 @@
   {
     "Title": "Effekseer for MMD",
     "URL": "https://bowlroll.net/file/121167",
-    "Version": 0.25,
+    "Version": "0.25",
     "Readme": "EffekseerForMMD_Readme.txt",
     "SHA1Hash": "ab16e90d4b6c7bafb4505589c3ba7de864e55121",
     "InstallDir": [
@@ -38,7 +38,7 @@
   {
     "Title": "MikuMikuEffect",
     "URL": "https://bowlroll.net/file/35013",
-    "Version": 0.37,
+    "Version": "0.37",
     "Readme": "MMEffect_x64_v037/MMEffect.txt",
     "SHA1Hash": "c9304108d61517e9ba47e05118dda1df6063c14c",
     "InstallDir": [
@@ -48,7 +48,7 @@
   {
     "Title": "MMAccel",
     "URL": "https://bowlroll.net/file/89669",
-    "Version": 1.60,
+    "Version": "1.60",
     "Readme": "MMAccel_64_v1_60/mmaccel_Readme.txt",
     "SHA1Hash": "aa89b9c2474d8227ca2b6ccd0120a38a491e40aa",
     "InstallDir": [
@@ -69,7 +69,7 @@
   {
     "Title": "MMDDiscordRPC",
     "URL": "https://bowlroll.net/file/270406",
-    "Version": 1.0,
+    "Version": "1.0",
     "Readme": "readme.md",
     "SHA1Hash": "161ed4b685d445337cde92092612fcb546c23bd0",
     "InstallDir": [

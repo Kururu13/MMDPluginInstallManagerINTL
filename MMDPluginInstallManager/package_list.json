@@ -36,13 +36,13 @@
     ]
   },
   {
-    "Title": "MikuMikuEffect",
-    "URL": "https://bowlroll.net/file/35013",
+    "Title": "MikuMikuEffectEN",
+    "URL": "https://learnmmd.com/MMEffect_v037x64_English.zip",
     "Version": "0.37",
-    "Readme": "MMEffect_x64_v037/MMEffect.txt",
-    "SHA1Hash": "c9304108d61517e9ba47e05118dda1df6063c14c",
+    "Readme": "MMEffect_v037x64_English/Original Text Files/MMEffect.txt",
+    "SHA1Hash": "5853d2c03a1ddb2331c6708ba7ae763f8f8a73e4",
     "InstallDir": [
-      [ "MMEffect_x64_v037/", "../plugin/mme/" ]
+      [ "MMEffect_x64_v037English", "../plugin/mme/" ]
     ]
   },
   {

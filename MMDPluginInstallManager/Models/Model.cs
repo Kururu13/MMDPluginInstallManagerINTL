@@ -198,7 +198,7 @@ namespace MMDPluginInstallManager.Models
                     //NG: Line below fixes the issue where the included json file gets overwritten with an empty one, because it failed to properly negotiate TLS. Thanks, the combined power of StackOverflow and Duke Nukem!
                     System.Net.ServicePointManager.SecurityProtocol = SecurityProtocolType.Tls12;
                     await wc.DownloadFileTaskAsync(
-                                                   "https://raw.githubusercontent.com/NordGeit/MMDPluginInstallManagerINTL/master/MMDPluginInstallManager/package_list.json",
+                                                   "https://raw.githubusercontent.com/Kururu13/MMDPluginInstallManagerINTL/refs/heads/master/MMDPluginInstallManager/package_list.json",
                                                    @"package_list.json");
                     text = File.ReadAllText("package_list.json");
                 }

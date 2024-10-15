@@ -141,22 +141,5 @@
     "InstallDir": [
       [ "MMDAlembic_v3.6/plugin/MMDAlembic/", "plugin/MMDAlembic/" ]
     ]
-  },
-       {
-    "Title": "MMDx11",
-    "URL": "https://bowlroll.net/file/244541",
-    "Version": "0.1.0",
-    "Readme": "readme.txt",
-    "SHA1Hash": "c26aaa1a23c3b6344383e8f34cec3842c16e5158",
-    "InstallDir": [
-      [ "icui18n.dll", "plugin/MMDX11/" ],
-      [ "icuuc.dll", "plugin/MMDX11/" ],
-      [ "MMDX11.dll", "plugin/MMDX11/" ],
-      [ "v8.dll", "plugin/MMDX11/" ],
-      [ "v8_libbase.dll", "plugin/MMDX11/" ]
-	  [ "v8_libplatform.dll", "plugin/MMDX11/" ]
-	  [ "zlib.dll", "plugin/MMDX11/" ]
-	  [ "CHANGELOG.md", "plugin/MMDX11/" ]
-    ]
   }
 ]

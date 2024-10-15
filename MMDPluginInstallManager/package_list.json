@@ -36,34 +36,34 @@
     ]
   },
   {
-    "Title": "MikuMikuEffectEN",
-    "URL": "https://learnmmd.com/MMEffect_v037x64_English.zip",
+    "Title": "MikuMikuEffect",
+    "URL": "https://bowlroll.net/file/35013",
     "Version": "0.37",
-    "Readme": "MMEffect_v037x64_English/Original Text Files/MMEffect.txt",
-    "SHA1Hash": "5853d2c03a1ddb2331c6708ba7ae763f8f8a73e4",
+    "Readme": "MMEffect_x64_v037/MMEffect.txt",
+    "SHA1Hash": "c9304108d61517e9ba47e05118dda1df6063c14c",
     "InstallDir": [
-      [ "MMEffect_x64_v037English", "../plugin/mme/" ]
+      [ "MMEffect_x64_v037", "../plugin/mme/" ]
     ]
   },
   {
     "Title": "MMAccel",
-    "URL": "https://bowlroll.net/file/89669",
-    "Version": "1.60",
-    "Readme": "MMAccel_64_v1_60/mmaccel_Readme.txt",
-    "SHA1Hash": "aa89b9c2474d8227ca2b6ccd0120a38a491e40aa",
+    "URL": "https://bowlroll.net/file/253630",
+    "Version": "2.0.9",
+    "Readme": "MMAccel_2_0_9/mmaccel_Readme.txt",
+    "SHA1Hash": "3b483fb09eaab29d165768764d94fd3dfa1c5eb9",
     "InstallDir": [
-      [ "MMAccel_64_v1_60/mmaccel/", "../../plugin/mmaccel/" ],
-      [ "MMAccel_64_v1_60/mmaccel_Readme.txt", "../plugin/mmaccel/" ]
+      [ "MMAccel_2_0_9/mmaccel/", "../../plugin/mmaccel/" ],
+      [ "MMAccel_2_0_9/mmaccel_Readme.txt", "../plugin/mmaccel/" ]
     ]
   },
   {
     "Title": "MMPlus",
     "URL": "https://bowlroll.net/file/192172",
-    "Version": "1.6.5.14",
-    "Readme": "MMPlus_ver1.6.5.14/MMPlus_readme.txt",
-    "SHA1Hash": "bbad109b1bd1855aebc216c9f155f24431be83d6",
+    "Version": "1.7.1",
+    "Readme": "MMPlus/MMPlus_readme.txt",
+    "SHA1Hash": "86a2d4145431ce2eb5429121b655ab0625ba15f7",
     "InstallDir": [
-      [ "MMPlus_ver1.6.5.14/", "../plugin/MMPlus/" ]
+      [ "MMPlus/", "../plugin/MMPlus/" ]
     ]
   },
   {
@@ -95,9 +95,9 @@
   {
     "Title": "外部親拡張操作プラグイン",
     "URL": "https://bowlroll.net/file/295257",
-    "Version": "1.0.1",
+    "Version": "1.0.5",
     "Readme": "readme.txt",
-    "SHA1Hash": "0e127d0e5b4fa1ab47d2e0e803f60ab1305489e6",
+    "SHA1Hash": "ac154c1b282e51b86d1274d210799ba300ff22fd",
     "InstallDir": [
       [ "外部親拡張操作プラグイン 使い方.xls", "plugin/ExParentControlExtend/" ],
       [ "qExternalParentControlExtend.dll", "plugin/ExParentControlExtend/" ],
@@ -123,7 +123,7 @@
   {
     "Title": "外部親ボーン表示削減プラグイン",
     "URL": "https://bowlroll.net/file/293216",
-    "Version": "1.0.6",
+    "Version": "1.0.7",
     "Readme": "readme.txt",
     "SHA1Hash": "3376b8c72a1579a459a8cd1578d6961adf763c4b",
     "InstallDir": [
@@ -135,11 +135,28 @@
   {
     "Title": "MMDAlembic",
     "URL": "https://bowlroll.net/file/283437",
-    "Version": "2.5",
+    "Version": "3.6",
     "Readme": "readme.txt",
-    "SHA1Hash": "9cea247491f658ce3a9f1047da789e6ad17c879b",
+    "SHA1Hash": "c26aaa1a23c3b6344383e8f34cec3842c16e5158",
     "InstallDir": [
-      [ "MMDAlembic_v2.5/plugin/MMDAlembic/", "plugin/MMDAlembic/" ]
+      [ "MMDAlembic_v3.6/plugin/MMDAlembic/", "plugin/MMDAlembic/" ]
+    ]
+  },
+       {
+    "Title": "MMDx11",
+    "URL": "https://bowlroll.net/file/244541",
+    "Version": "0.1.0",
+    "Readme": "readme.txt",
+    "SHA1Hash": "c26aaa1a23c3b6344383e8f34cec3842c16e5158",
+    "InstallDir": [
+      [ "icui18n.dll", "plugin/MMDX11/" ],
+      [ "icuuc.dll", "plugin/MMDX11/" ],
+      [ "MMDX11.dll", "plugin/MMDX11/" ],
+      [ "v8.dll", "plugin/MMDX11/" ],
+      [ "v8_libbase.dll", "plugin/MMDX11/" ]
+	  [ "v8_libplatform.dll", "plugin/MMDX11/" ]
+	  [ "zlib.dll", "plugin/MMDX11/" ]
+	  [ "CHANGELOG.md", "plugin/MMDX11/" ]
     ]
   }
 ]
